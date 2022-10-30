@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Iago Oliveira",
+        "cpf": "70100100274",
+        "email": "iago@hotmail.com",
+        "whatsapp": "62999999999",
+        "address": {
+            "postalcode": "75144610",
+            "street": "Avenida Matadouro Industrial",
+            "number": "050",
+            "details": "Ap 142",
+            "district": "Vila Fabril",
+            "city_state": "Anápolis/GO"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Iago Guedes",
+        "cpf": "00000000AAA",
+        "email": "iagozzz@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "75144610",
+            "street": "Avenida Matadouro Industrial",
+            "number": "050",
+            "details": "Ap 142",
+            "district": "Vila Fabril",
+            "city_state": "Anápolis/GO"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Iago Oliveira",
+        "cpf": "70100100274",
+        "email": "iago.com.br",
+        "whatsapp": "62999999999",
+        "address": {
+            "postalcode": "75144610",
+            "street": "Avenida Matadouro Industrial",
+            "number": "050",
+            "details": "Ap 142",
+            "district": "Vila Fabril",
+            "city_state": "Anápolis/GO"
+        },
+        "delivery_method": "Bike Elétrica",
+        "cnh": "cnh-digital.jpg"
+    }
+}
