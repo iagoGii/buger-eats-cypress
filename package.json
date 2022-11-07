@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx cypress open"
   },
-  "author": "Iago Oliveira Guedes",
+  "author": "Iago Guedes",
   "license": "MIT",
   "dependencies": {
     "cypress": "^10.8.0",
